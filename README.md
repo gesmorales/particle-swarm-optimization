@@ -1,4 +1,4 @@
-# Particle Swarm Optimization
+# Particle Swarm Optimization by gesmorales
 
 ## Description
 Particle Swarm Optimization (PSO) is a population-based metaheuristic algorithm inspired by the collective behavior of social organisms such as bird flocks and fish schools. It was first introduced by James Kennedy and Russell Eberhart in 1995 and has since become a widely used technique for solving complex optimization problems.
